@@ -19,3 +19,6 @@ swiftc main.swift -o OpenClawControl -framework Cocoa
 
 ## Installation
 Run the compiled \`OpenClawControl\` executable. Add it to your Login Items for persistence.
+
+## Screenshot
+![OpenClaw Control in Action](app_action.png)
